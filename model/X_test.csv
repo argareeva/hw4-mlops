@@ -1,0 +1,101 @@
+customer_zip_code_prefix,customer_city,freight_value,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_category_name_english,seller_zip_code_prefix,seller_city,seller_state,payment_type,delivery_days,delivery_vs_estimated,is_repeat_customer,seller_state_match,product_volume,total_order_items,log_price,seller_orders_count,is_delivered
+48120,pojuca,29.54,44.0,487.0,1.0,2800.0,bed_bath_table,14940.0,ibitinga,SP,credit_card,8.0,-23.0,1,0,8400.0,2.0,4.787491742782046,116.0,1
+1547,sao paulo,8.72,54.0,974.0,3.0,400.0,furniture_decor,13457.0,santa barbara d'oeste,SP,credit_card,0.0,-12.0,0,1,3750.0,1.0,3.929862923556477,71.0,1
+23810,itaguai,28.11,55.0,60.0,1.0,2800.0,computers_accessories,90230.0,porto alegre,RS,credit_card,7.0,-17.0,0,0,24000.0,1.0,4.663439094112067,305.0,1
+37466,itamonte,15.1,39.0,161.0,2.0,350.0,bed_bath_table,14940.0,ibitinga,SP,boleto,19.0,-6.0,0,0,3800.0,1.0,3.7133281345162463,526.0,1
+9370,maua,15.1,57.0,338.0,1.0,2150.0,construction_tools_construction,84530.0,teixeira soares,PR,credit_card,14.0,-15.0,0,0,3200.0,1.0,3.931629535067065,51.0,1
+85155,inacio martins,18.24,46.0,644.0,3.0,225.0,computers_accessories,89023.0,blumenau,SC,credit_card,13.0,-12.0,0,0,6210.0,1.0,3.9684033388642534,108.0,1
+27286,volta redonda,15.1,58.0,395.0,1.0,217.0,computers_accessories,4403.0,sao paulo,SP,credit_card,9.0,-13.0,0,0,3136.0,1.0,3.5832411220909393,334.0,1
+39527,mato verde,58.93,55.0,541.0,3.0,2750.0,musical_instruments,86073.0,londrina,PR,credit_card,6.0,-31.0,0,0,21012.0,1.0,4.109233174715851,39.0,1
+20261,rio de janeiro,14.1,54.0,285.0,2.0,275.0,telephony,3504.0,sao paulo,SP,boleto,15.0,-9.0,0,0,864.0,1.0,2.5641798306825083,341.0,1
+53270,olinda,19.64,49.0,1304.0,4.0,650.0,telephony,42738.0,lauro de freitas,BA,credit_card,15.0,-21.0,1,0,2208.0,2.0,5.363168338867653,358.0,1
+4104,sao paulo,14.43,52.0,274.0,2.0,250.0,small_appliances,86800.0,apucarana,PR,boleto,6.0,-21.0,1,0,8000.0,2.0,3.4288125486951286,29.0,1
+40720,salvador,18.56,35.0,347.0,2.0,1400.0,housewares,8275.0,sao paulo,SP,credit_card,29.0,5.0,0,0,17640.0,1.0,4.509760001183433,83.0,1
+25520,sao joao de meriti,15.1,58.0,364.0,2.0,250.0,watches_gifts,13232.0,campo limpo paulista,SP,credit_card,10.0,-14.0,0,0,10000.0,1.0,3.039749158970765,1080.0,1
+25903,mage,15.15,50.0,381.0,1.0,875.0,bed_bath_table,14940.0,ibitinga,SP,credit_card,14.0,-8.0,0,0,18000.0,1.0,4.060270581888349,423.0,1
+11630,ilhabela,13.61,63.0,927.0,9.0,7500.0,musical_instruments,4378.0,sao paulo,SP,credit_card,11.0,-8.0,0,1,44550.0,1.0,4.45318382899021,166.0,1
+36035,juiz de fora,16.11,55.0,928.0,1.0,600.0,furniture_decor,15704.0,jales,SP,credit_card,10.0,-18.0,1,0,4913.0,4.0,3.929862923556477,55.0,1
+30855,belo horizonte,20.91,38.0,1665.0,1.0,2300.0,health_beauty,19830.0,echapora,SP,credit_card,12.0,-11.0,0,0,4896.0,1.0,4.110873864173311,40.0,1
+13218,jundiai,7.78,58.0,675.0,2.0,167.0,audio,1026.0,sao paulo,SP,credit_card,6.0,-13.0,0,1,704.0,1.0,3.039749158970765,212.0,1
+2470,sao paulo,14.53,60.0,424.0,1.0,1150.0,luggage_accessories,37564.0,borda da mata,MG,credit_card,8.0,-13.0,0,0,14000.0,1.0,4.752727750345706,406.0,1
+88020,florianopolis,27.6,47.0,476.0,1.0,12000.0,office_furniture,8583.0,itaquaquecetuba,SP,boleto,28.0,-7.0,1,0,45084.0,4.0,4.7957078975533864,63.0,1
+9370,maua,29.07,45.0,847.0,3.0,100.0,consoles_games,85801.0,cascavel,PR,credit_card,17.0,-15.0,0,0,4096.0,1.0,7.377758908227872,174.0,1
+13735,mococa,12.79,39.0,701.0,2.0,100.0,computers_accessories,14092.0,ribeirao preto,SP,boleto,11.0,-5.0,0,1,3564.0,1.0,3.725693427236653,317.0,1
+12220,sao jose dos campos,7.78,30.0,227.0,2.0,300.0,fashion_bags_accessories,3265.0,sao paulo,SP,credit_card,2.0,-11.0,1,1,1408.0,2.0,3.713572066704308,26.0,1
+8032,sao paulo,18.81,58.0,1447.0,5.0,15800.0,baby,13450.0,santa barbara d´oeste,SP,credit_card,7.0,-5.0,0,1,134292.0,1.0,6.895682697747868,325.0,1
+56310,petrolina,37.0,52.0,2518.0,2.0,400.0,computers_accessories,36415.0,congonhas,MG,boleto,11.0,-18.0,0,0,3360.0,1.0,5.486248162106502,40.0,1
+74495,goiania,73.08,47.0,886.0,5.0,5050.0,costruction_tools_garden,3431.0,sao paulo,SP,credit_card,8.0,-13.0,1,0,32000.0,2.0,4.98292145552874,119.0,1
+2984,sao paulo,7.78,29.0,466.0,1.0,313.0,housewares,4265.0,sao paulo,SP,boleto,3.0,-11.0,0,1,4032.0,1.0,2.3969857684155302,265.0,1
+21311,rio de janeiro,23.29,53.0,597.0,1.0,5417.0,auto,7112.0,guarulhos,SP,credit_card,29.0,10.0,0,0,90992.0,1.0,4.941642422609304,387.0,1
+90670,porto alegre,16.85,58.0,883.0,1.0,2000.0,health_beauty,3702.0,sao paulo,SP,credit_card,23.0,-9.0,0,0,5760.0,1.0,4.454928522657548,162.0,1
+36212,barroso,15.1,48.0,238.0,4.0,2850.0,office_furniture,14802.0,araraquara,SP,credit_card,27.0,-6.0,0,0,20336.0,1.0,3.910021002757473,36.0,1
+72548,brasilia,16.32,57.0,1525.0,4.0,285.0,computers_accessories,30882.0,belo horizonte,MG,boleto,15.0,-2.0,0,0,2210.0,1.0,3.711130063048756,64.0,1
+9771,sao bernardo do campo,8.72,60.0,1220.0,1.0,300.0,bed_bath_table,3122.0,sao paulo,SP,credit_card,4.0,-13.0,1,1,2240.0,2.0,3.0007198150650303,1.0,1
+13641,pirassununga,17.94,60.0,1159.0,3.0,2450.0,auto,7790.0,cajamar,SP,credit_card,9.0,-15.0,1,1,27000.0,2.0,5.17558460116574,197.0,1
+92990,eldorado do sul,21.75,60.0,234.0,1.0,2150.0,bed_bath_table,13405.0,piracicaba,SP,credit_card,10.0,-26.0,0,0,8704.0,1.0,5.19794439240125,1314.0,1
+9360,maua,12.43,44.0,903.0,6.0,2600.0,furniture_decor,4782.0,sao paulo,SP,credit_card,4.0,-14.0,1,1,15000.0,3.0,4.2612704335380815,1287.0,1
+75905,rio verde,18.28,53.0,830.0,1.0,541.0,electronics,72015.0,brasilia,DF,credit_card,10.0,-2.0,1,0,3648.0,2.0,3.2917544702807735,174.0,1
+4905,sao paulo,7.81,59.0,319.0,4.0,250.0,watches_gifts,5849.0,sao paulo,SP,credit_card,2.0,-3.0,0,1,640.0,1.0,4.3694478524670215,1854.0,1
+91010,porto alegre,9.74,43.0,280.0,3.0,200.0,computers_accessories,90230.0,porto alegre,RS,boleto,4.0,-8.0,1,1,8000.0,4.0,3.634951112088381,305.0,1
+35740,esmeraldas,15.97,58.0,655.0,5.0,1300.0,air_conditioning,37590.0,jacutinga,MG,credit_card,7.0,-2.0,0,1,9000.0,1.0,4.867534450455582,62.0,1
+6414,barueri,23.23,26.0,1064.0,1.0,250.0,health_beauty,35570.0,formiga,MG,boleto,9.0,-32.0,0,0,3000.0,1.0,6.641182169740591,49.0,1
+28035,campos dos goytacazes,18.27,38.0,1276.0,2.0,400.0,consoles_games,87230.0,jussara,PR,credit_card,50.0,18.0,0,0,12000.0,1.0,4.6141299273595635,87.0,1
+18170,piedade,17.06,29.0,462.0,1.0,3520.0,costruction_tools_garden,19803.0,assis,SP,credit_card,5.0,-13.0,0,1,14375.0,1.0,3.4339872044851463,82.0,1
+35860,conceicao do mato dentro,12.48,49.0,293.0,1.0,500.0,stationery,31255.0,belo horizonte,MG,credit_card,5.0,-17.0,0,1,25432.0,1.0,3.8897773964808264,149.0,1
+88010,florianopolis,18.72,42.0,236.0,1.0,342.0,watches_gifts,14840.0,guariba,SP,credit_card,19.0,-14.0,0,0,3510.0,1.0,5.351384087484729,1132.0,1
+37044,varginha,19.94,37.0,365.0,2.0,3121.0,housewares,85603.0,francisco beltrao,PR,credit_card,9.0,-15.0,1,0,31500.0,2.0,4.6141299273595635,61.0,1
+57081,maceio,44.75,46.0,998.0,1.0,4900.0,construction_tools_construction,2422.0,sao paulo,SP,credit_card,-1.0,0.0,0,0,6137.0,1.0,5.017279836814924,9.0,0
+83602,campo largo,9.27,53.0,612.0,4.0,175.0,telephony,82220.0,curitiba,PR,credit_card,4.0,-6.0,1,1,1056.0,2.0,3.0440461338325413,2.0,1
+5453,sao paulo,9.66,45.0,759.0,1.0,9550.0,bed_bath_table,3333.0,sao paulo,SP,credit_card,5.0,-13.0,0,1,47916.0,1.0,5.991464547107982,135.0,1
+23032,rio de janeiro,15.7,40.0,1456.0,1.0,2425.0,cool_stuff,4403.0,sao paulo,SP,credit_card,9.0,-12.0,0,0,16530.0,1.0,4.912581353620868,334.0,1
+78068,cuiaba,15.71,55.0,282.0,1.0,7500.0,furniture_decor,33200.0,vespasiano,MG,credit_card,14.0,-23.0,1,0,44944.0,3.0,6.398428531339882,4.0,1
+65400,codo,43.44,57.0,1620.0,1.0,2350.0,cool_stuff,4403.0,sao paulo,SP,credit_card,27.0,-1.0,0,0,10240.0,1.0,4.997144703913756,334.0,1
+27510,resende,17.6,56.0,348.0,2.0,1550.0,garden_tools,15025.0,sao jose do rio preto,SP,credit_card,10.0,-15.0,0,0,19800.0,1.0,3.929862923556477,1404.0,1
+5202,sao paulo,16.6,52.0,595.0,1.0,750.0,unknown,0.0,unknown,unknown,credit_card,-1.0,0.0,0,-1,6859.0,1.0,0.0,0.0,0
+13345,indaiatuba,12.88,51.0,231.0,1.0,2100.0,bed_bath_table,14940.0,ibitinga,SP,boleto,7.0,-9.0,1,1,6960.0,2.0,4.909340575944674,231.0,1
+79611,tres lagoas,20.99,50.0,897.0,3.0,350.0,auto,38401.0,uberlandia,MG,boleto,23.0,-4.0,1,0,7920.0,2.0,4.794963757620747,3.0,1
+80440,curitiba,23.19,34.0,314.0,2.0,1475.0,housewares,95098.0,caxias do sul,RS,credit_card,7.0,-11.0,0,0,8664.0,1.0,4.028204759717555,12.0,1
+95890,teutonia,19.36,58.0,249.0,1.0,1250.0,furniture_decor,13660.0,porto ferreira,SP,boleto,12.0,-24.0,0,0,11200.0,1.0,4.02535169073515,51.0,1
+16700,guararapes,17.67,44.0,598.0,4.0,4100.0,cool_stuff,38408.0,uberlandia,MG,credit_card,11.0,-8.0,0,0,14952.0,1.0,4.109233174715851,98.0,1
+78048,cuiaba,22.28,59.0,260.0,2.0,300.0,cool_stuff,38022.0,uberaba,MG,credit_card,47.0,14.0,0,0,1547.0,1.0,3.4307561839036995,42.0,1
+42807,camacari,10.55,47.0,1258.0,4.0,450.0,telephony,42738.0,lauro de freitas,BA,credit_card,11.0,-10.0,0,1,2576.0,1.0,5.649678215663,358.0,1
+20511,rio de janeiro,14.1,60.0,362.0,2.0,183.0,baby,4180.0,sao paulo,SP,credit_card,9.0,-13.0,0,0,5324.0,1.0,3.6635616461296463,35.0,1
+13273,valinhos,12.69,45.0,920.0,1.0,600.0,furniture_decor,15704.0,jales,SP,boleto,12.0,-13.0,0,1,4913.0,1.0,3.929862923556477,55.0,1
+83321,pinhais,45.97,37.0,157.0,1.0,7850.0,auto,89288.0,sao bento do sul,SC,credit_card,7.0,-8.0,0,0,48594.0,1.0,4.8121030512543195,13.0,1
+37150,carmo do rio claro,15.1,58.0,181.0,2.0,150.0,watches_gifts,5849.0,sao paulo,SP,voucher,7.0,-15.0,0,0,352.0,1.0,3.4011973816621555,1854.0,1
+30110,belo horizonte,8.11,20.0,908.0,1.0,75.0,auto,31255.0,belo horizonte,MG,voucher,21.0,-3.0,0,1,1768.0,1.0,2.827313621929028,509.0,1
+23820,itaguai,19.06,48.0,1459.0,1.0,1600.0,furniture_decor,3417.0,sao paulo,SP,credit_card,12.0,-13.0,0,0,4664.0,1.0,5.560681631015528,42.0,1
+18520,cerquilho,15.94,35.0,560.0,1.0,200.0,sports_leisure,3933.0,sao paulo,SP,boleto,10.0,-16.0,1,1,2816.0,3.0,3.711130063048756,261.0,1
+24472,sao goncalo,24.29,56.0,708.0,6.0,7000.0,toys,92030.0,canoas,RS,credit_card,13.0,-8.0,0,0,43400.0,1.0,4.873669439023098,103.0,1
+22020,rio de janeiro,18.36,52.0,595.0,1.0,600.0,unknown,37410.0,tres coracoes,MG,credit_card,9.0,-21.0,1,0,1800.0,2.0,3.653252276470785,182.0,1
+46430,guanambi,16.79,42.0,356.0,4.0,75.0,telephony,8250.0,sao paulo,SP,credit_card,16.0,-14.0,0,0,627.0,1.0,3.0440461338325413,396.0,1
+9310,maua,9.74,53.0,411.0,3.0,750.0,pet_shop,13419.0,piracicaba,SP,boleto,6.0,-13.0,0,1,12000.0,1.0,4.077367938014984,187.0,1
+11020,santos,9.41,59.0,1071.0,1.0,550.0,perfumery,9015.0,santo andre,SP,credit_card,5.0,-14.0,0,1,5040.0,1.0,4.454231010422805,1706.0,1
+90220,porto alegre,17.67,59.0,341.0,2.0,1750.0,garden_tools,15025.0,sao jose do rio preto,SP,credit_card,14.0,-18.0,0,0,32560.0,1.0,4.109233174715851,1404.0,1
+90240,porto alegre,17.15,60.0,274.0,1.0,867.0,computers_accessories,12230.0,sao jose dos campos,SP,credit_card,15.0,-12.0,1,0,7650.0,4.0,5.298317366548036,157.0,1
+20551,rio de janeiro,16.76,44.0,421.0,1.0,706.0,consoles_games,13030.0,campinas,SP,credit_card,4.0,-5.0,1,0,9728.0,3.0,4.417635062141249,9.0,1
+76420,niquelandia,15.93,56.0,1224.0,3.0,556.0,perfumery,14085.0,riberao preto,SP,boleto,-1.0,0.0,0,0,5376.0,1.0,5.129425230065743,255.0,0
+68537,canaa dos carajas,82.35,55.0,314.0,3.0,150.0,sports_leisure,89520.0,curitibanos,SC,boleto,26.0,-15.0,0,0,1560.0,1.0,5.14166355650266,17.0,1
+71929,brasilia,15.33,54.0,221.0,7.0,150.0,watches_gifts,5849.0,sao paulo,SP,credit_card,18.0,-1.0,0,0,352.0,1.0,4.189654742026425,1854.0,1
+65036,sao luis,33.27,44.0,2558.0,1.0,1100.0,small_appliances,82940.0,curitiba,PR,credit_card,17.0,-5.0,0,0,9350.0,1.0,5.267858159063328,27.0,1
+66050,belem,59.85,35.0,363.0,1.0,3715.0,luggage_accessories,4265.0,sao paulo,SP,credit_card,8.0,-20.0,0,0,50112.0,1.0,4.61015772749913,265.0,1
+8410,sao paulo,7.39,38.0,207.0,1.0,350.0,health_beauty,9230.0,santo andre,SP,credit_card,3.0,-8.0,0,1,1792.0,1.0,3.713572066704308,5.0,1
+11030,santos,51.78,32.0,470.0,1.0,22700.0,furniture_decor,13920.0,pedreira,SP,credit_card,3.0,-9.0,0,1,144648.0,1.0,5.700443573390686,4.0,1
+37150,carmo do rio claro,16.28,55.0,249.0,1.0,850.0,bed_bath_table,13405.0,piracicaba,SP,credit_card,15.0,-13.0,1,0,14440.0,2.0,4.329416684401584,1314.0,1
+8745,mogi das cruzes,8.72,51.0,1078.0,1.0,500.0,furniture_decor,2443.0,sao paulo,SP,credit_card,4.0,-9.0,1,1,6615.0,2.0,3.433664571799657,132.0,1
+30380,belo horizonte,18.54,49.0,1304.0,4.0,650.0,telephony,42738.0,lauro de freitas,BA,credit_card,-1.0,0.0,0,0,2208.0,1.0,5.198497031265826,358.0,0
+26277,nova iguacu,31.7,57.0,1296.0,1.0,8750.0,office_furniture,8577.0,itaquaquecetuba,SP,credit_card,16.0,-19.0,0,0,45084.0,1.0,4.927036270219942,982.0,1
+26525,nilopolis,17.6,54.0,439.0,2.0,1300.0,furniture_decor,18048.0,sorocaba,SP,credit_card,16.0,-7.0,1,0,18750.0,2.0,3.711130063048756,83.0,1
+3088,sao paulo,13.73,55.0,907.0,3.0,1400.0,computers_accessories,14085.0,riberao preto,SP,credit_card,12.0,-6.0,0,1,6256.0,1.0,4.628300603376946,255.0,1
+20780,rio de janeiro,18.24,58.0,2599.0,4.0,350.0,construction_tools_safety,91350.0,porto alegre,RS,credit_card,10.0,-17.0,0,0,4096.0,1.0,5.99378684847755,92.0,1
+90640,porto alegre,17.67,57.0,366.0,2.0,1650.0,garden_tools,15025.0,sao jose do rio preto,SP,credit_card,28.0,1.0,0,0,19800.0,1.0,4.109233174715851,1404.0,1
+5428,sao paulo,34.65,59.0,3314.0,2.0,2950.0,computers_accessories,85801.0,cascavel,PR,boleto,14.0,-14.0,0,0,8000.0,1.0,5.075173815233827,174.0,1
+7813,franco da rocha,21.99,29.0,639.0,2.0,1250.0,furniture_decor,81050.0,curitiba,PR,credit_card,15.0,-29.0,0,0,9000.0,1.0,4.871373226762748,17.0,1
+17512,marilia,19.7,51.0,625.0,1.0,900.0,health_beauty,80310.0,curitiba,PR,credit_card,11.0,-14.0,0,0,11400.0,1.0,5.860501282589169,187.0,1
+9580,sao caetano do sul,9.52,61.0,3745.0,6.0,600.0,health_beauty,3655.0,sao paulo,SP,credit_card,3.0,-10.0,0,1,4624.0,1.0,5.252221070655064,126.0,1
+13974,itapira,18.68,54.0,1131.0,3.0,5300.0,health_beauty,13328.0,salto,SP,credit_card,4.0,-12.0,0,1,27360.0,1.0,5.790449347866773,88.0,1
+7190,guarulhos,7.78,57.0,571.0,1.0,200.0,perfumery,9015.0,santo andre,SP,credit_card,5.0,-9.0,0,1,2040.0,1.0,3.433664571799657,1706.0,1
+59200,santa cruz,102.81,45.0,1151.0,1.0,10667.0,furniture_decor,8577.0,itaquaquecetuba,SP,credit_card,32.0,-15.0,0,0,63916.0,1.0,5.1236067727554175,982.0,1
+6124,osasco,13.44,58.0,340.0,2.0,1500.0,garden_tools,15025.0,sao jose do rio preto,SP,boleto,14.0,-5.0,0,1,19800.0,1.0,3.912023005428146,1404.0,1
+14802,araraquara,38.29,40.0,545.0,3.0,2200.0,housewares,3029.0,sao paulo,SP,boleto,8.0,-12.0,0,1,30000.0,1.0,4.6141299273595635,63.0,1
+4023,sao paulo,7.39,55.0,211.0,1.0,150.0,telephony,3504.0,sao paulo,SP,credit_card,6.0,-7.0,0,1,2432.0,1.0,3.2872818575322613,341.0,1

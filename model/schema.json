@@ -1,0 +1,51 @@
+{
+  "numeric_features": [
+    "customer_zip_code_prefix",
+    "freight_value",
+    "product_name_lenght",
+    "product_description_lenght",
+    "product_photos_qty",
+    "product_weight_g",
+    "seller_zip_code_prefix",
+    "delivery_days",
+    "delivery_vs_estimated",
+    "is_repeat_customer",
+    "seller_state_match",
+    "product_volume",
+    "total_order_items",
+    "log_price",
+    "seller_orders_count",
+    "is_delivered"
+  ],
+  "categorical_features": [
+    "customer_city",
+    "product_category_name_english",
+    "seller_city",
+    "seller_state",
+    "payment_type"
+  ],
+  "all_features": [
+    "customer_zip_code_prefix",
+    "freight_value",
+    "product_name_lenght",
+    "product_description_lenght",
+    "product_photos_qty",
+    "product_weight_g",
+    "seller_zip_code_prefix",
+    "delivery_days",
+    "delivery_vs_estimated",
+    "is_repeat_customer",
+    "seller_state_match",
+    "product_volume",
+    "total_order_items",
+    "log_price",
+    "seller_orders_count",
+    "is_delivered",
+    "customer_city",
+    "product_category_name_english",
+    "seller_city",
+    "seller_state",
+    "payment_type"
+  ],
+  "n_features": 21
+}

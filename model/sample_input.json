@@ -1,0 +1,23 @@
+{
+  "customer_zip_code_prefix": "48120",
+  "customer_city": "pojuca",
+  "freight_value": "29.54",
+  "product_name_lenght": "44.0",
+  "product_description_lenght": "487.0",
+  "product_photos_qty": "1.0",
+  "product_weight_g": "2800.0",
+  "product_category_name_english": "bed_bath_table",
+  "seller_zip_code_prefix": "14940.0",
+  "seller_city": "ibitinga",
+  "seller_state": "SP",
+  "payment_type": "credit_card",
+  "delivery_days": "8.0",
+  "delivery_vs_estimated": "-23.0",
+  "is_repeat_customer": "1",
+  "seller_state_match": "0",
+  "product_volume": "8400.0",
+  "total_order_items": "2.0",
+  "log_price": "4.787491742782046",
+  "seller_orders_count": "116.0",
+  "is_delivered": "1"
+}
